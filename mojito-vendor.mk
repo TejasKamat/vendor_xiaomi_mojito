@@ -955,6 +955,7 @@ PRODUCT_PACKAGES += \
     mlipayd@1.1 \
     msm_irqbalance \
     netmgrd \
+    npu_launcher \
     nv_mac \
     pd-mapper \
     pm-proxy \
