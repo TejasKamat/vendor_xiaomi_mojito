@@ -751,6 +751,8 @@ PRODUCT_PACKAGES += \
     libperfgluelayer \
     libperfioctl \
     libperipheral_client \
+    libprotobuf-cpp-full-3.9.1 \
+    libprotobuf-cpp-lite-3.9.1 \
     libqcbor \
     libqcc_file_agent \
     libqcmaputils \
@@ -940,7 +942,6 @@ PRODUCT_PACKAGES += \
     IWlanService \
     SoterService \
     TimeService \
-    PowerOffAlarm \
     QtiTelephonyService \
     uceShimService \
     dpmserviceapp \
